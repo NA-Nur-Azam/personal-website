@@ -63,6 +63,42 @@ section{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
 }
-.text{
+.footer-section{
+    padding: 0 350px;
+}
+.footer-h2{
     text-align: center;
+    padding-bottom: 50px;
+}
+.name{
+    text-align: center;
+    font-weight: 500;
+    color:black;
+}
+.footer-title{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.footer-p{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.contact{
+    width: 100%;
+    height: 180px;
+    background-color: hotpink;
+    border-radius: 7px;
+    padding: 30px 0;
+}
+.contact-name{
+    text-align: center;
+    color:white;
+}
+.contact-link{
+    text-align: center;
+    color: white;
+}
+.footer-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
 }
